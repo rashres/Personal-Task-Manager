@@ -4,7 +4,7 @@ using System;
 public class MySqlDatabase
 {
     // Define the connection string for MySQL
-    private string connectionString = "Server=localhost;Database=TaskManagementSystem;User ID=root;Password=rahul123;";
+    private string connectionString = "Server=localhost;Database=TaskManagementSystem;User ID=root;Password=your-own;";
 
     // Method to get the MySQL connection
     public MySqlConnection GetConnection()
