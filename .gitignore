@@ -1,0 +1,8 @@
+Program.cs
+bin/
+obj/
+*.log
+error_log.txt
+# Ignore the .env file (contains sensitive data)
+.env
+
