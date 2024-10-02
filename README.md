@@ -19,6 +19,6 @@ The Personal Task Management System automates task creation and tracking using Z
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Personal-Task-Management-System.git
+   git clone https://github.com/rashres/Personal-Task-Manager.git
 
 
